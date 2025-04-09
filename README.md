@@ -1,3 +1,18 @@
+A beautiful and responsive weather dashboard built using **React.js**, styled with **Tailwind CSS**, animated with **Framer Motion**, and powered by the **OpenWeatherMap API**. Users can search for any city to view live weather updates and see recent searches with a toggle option.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
